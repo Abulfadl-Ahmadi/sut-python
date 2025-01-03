@@ -2,41 +2,29 @@
 
 student ID = 403172283
 
-## 1. [25-A IQ test](https://codeforces.com/problemset/problem/25/A)
+## 1. [158 B](https://codeforces.com/problemset/problem/158/B)
+- rating: 1100
+- solution: [`158-b.py`](https://github.com/Abulfadl-Ahmadi/sut-python/blob/main/158-b.py)
 
-<details open>
-<summary>solution: 25-a.py</summary>
-<iframe frameborder="0" scrolling="no" style="width:100%; height:394px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2FAbulfadl-Ahmadi%2Fsut-python%2Fblob%2Fmain%2F25-a.py&style=github-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></iframe>
-</details>
+## 2. [2045 B](https://codeforces.com/problemset/problem/2045/B)
 
-## 2. [2045-b.](https://codeforces.com/problemset/problem/2045/B)
+## 3. [2045 M](https://codeforces.com/problemset/problem/2045/M)
 
-<details open>
-<summary>solution: 25-a.py</summary>
-<iframe frameborder="0" scrolling="no" style="width:100%; height:394px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2FAbulfadl-Ahmadi%2Fsut-python%2Fblob%2Fmain%2F2045-b.py&style=github-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></iframe>
-</details>
+## 4. [2050 D](https://codeforces.com/problemset/problem/2050/D)
 
-## 3. [2045 M ](https://codeforces.com/problemset/problem/2045/M)
+## 5. [2050 E](https://codeforces.com/problemset/problem/2050/E)
 
-<details open>
-<summary>solution: 25-a.py</summary>
-<iframe frameborder="0" scrolling="no" style="width:100%; height:394px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2FAbulfadl-Ahmadi%2Fsut-python%2Fblob%2Fmain%2F2045-m-2.py&style=github-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></iframe>
-</details>
+## 6. [2050 F](https://codeforces.com/problemset/problem/2050/F)
 
-<details open>
-<summary>solution: 25-a.py</summary>
-<iframe frameborder="0" scrolling="no" style="width:100%; height:394px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2FAbulfadl-Ahmadi%2Fsut-python%2Fblob%2Fmain%2F2045-m-2.py&style=github-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></iframe>
-</details>
+## 7. [230 B](https://codeforces.com/problemset/problem/230/B)
 
-## 4. [2045-m](https://codeforces.com/problemset/problem/2045/M)
+## 8. [25 A](https://codeforces.com/problemset/problem/25/A)
 
-<details open>
-<summary>solution: 25-a.py</summary>
-<iframe frameborder="0" scrolling="no" style="width:100%; height:394px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2FAbulfadl-Ahmadi%2Fsut-python%2Fblob%2Fmain%2F2045-m.py&style=github-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></iframe>
-</details>
-## 1. [25-A IQ test](https://codeforces.com/problemset/problem/25/A)
+## 9. [406 B](https://codeforces.com/problemset/problem/706/B)
 
-<details open>
-<summary>solution: 25-a.py</summary>
-<iframe frameborder="0" scrolling="no" style="width:100%; height:394px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2FAbulfadl-Ahmadi%2Fsut-python%2Fblob%2Fmain%2F2045-m.py&style=github-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on&fetchFromJsDelivr=on"></iframe>
-</details>
+## 10. [25-A IQ test](https://codeforces.com/problemset/problem/25/A)
+
+## 11. [25-A IQ test](https://codeforces.com/problemset/problem/25/A)
+
+## 12. [25-A IQ test](https://codeforces.com/problemset/problem/25/A)
+
