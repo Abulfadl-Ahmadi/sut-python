@@ -7,3 +7,4 @@ def ceil(n):
         return int(n) + 1
 
 print(ceil(n / a) * ceil(m / a))
+# OK

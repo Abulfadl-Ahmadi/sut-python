@@ -1,11 +1,17 @@
 n = int(input())
-DB = []
-users = [input() for _ in range(n)]
-
+DB = {}
+ans = []
 for i in range(n):
-    if not users[i] in DB:
-        DB.add(users[i])
+    user_name = input()
+    if user_name in DB:
+        val = DB.get(user_name)
+        DB.update({user_name: val + 1})
+        ans.append(f"{user_name}{val}")
     else:
-        for 
+        DB[user_name] = 1
+        ans.append("OK")
+
+print(*ans, sep="\n")
+
 
 

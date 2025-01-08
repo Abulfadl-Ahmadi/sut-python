@@ -1,32 +1,23 @@
-from math import sqrt
-from sympy import isprime
+from math import isqrt
+
+def prime_gen(n):
+    is_prime = [True] * (n + 1)
+    is_prime[0] = is_prime[1] = False
+    for i in range(2, isqrt(n) + 1):
+        if is_prime[i]:
+            for j in range(i * i, n + 1, i):
+                is_prime[j] = False
+    return is_prime
 
 n = int(input())
 X = list(map(int, input().split()))
 
-def is_prime(n):
-    if n % 1 != 0:
-        return False
-    if n == 1:
-        return False
-    i = 2
-    flag = False
-    while i * i <= n:
-        if n % i == 0:
-            flag = True
-            break
-        i += 1
-    if flag:
-        return False
-    else:
-        return True
-for x in X:
-    if x == 1:
-        print("NO")
+max_sqrt = max(isqrt(x) for x in X)
+prime = prime_gen(max_sqrt)
 
-    if isprime(sqrt(x)):
+for x in X:
+    root = isqrt(x)
+    if root * root == x and prime[root]:
         print("YES")
     else:
         print("NO")
-
-
