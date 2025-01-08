@@ -7,6 +7,7 @@ codeforces = [Abulfadl](https://codeforces.com/profile/Abulfadl)
 - rating: 1100
 
 ## 2. [2045 B](https://codeforces.com/problemset/problem/2045/B)
+- rating: 2000
 
 ## 3. [2045 M Mirror Maze](https://codeforces.com/problemset/problem/2045/M)
 - rating: 1800
@@ -20,9 +21,6 @@ codeforces = [Abulfadl](https://codeforces.com/profile/Abulfadl)
 
 ## 7. [230 B T-primes](https://codeforces.com/problemset/problem/230/B)
 - rating: 1300
-
-
-
 
 ## 10. [25-A IQ test](https://codeforces.com/problemset/problem/25/A)
 
