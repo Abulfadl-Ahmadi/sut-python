@@ -6,7 +6,7 @@ codeforces = [Abulfadl](https://codeforces.com/profile/Abulfadl)
 ## 1. [158 B Taxi](https://codeforces.com/problemset/problem/158/B)
 - rating: 1100
 
-## 2. [2045 B](https://codeforces.com/problemset/problem/2045/B)
+## 2. [2045 B ICPC Square](https://codeforces.com/problemset/problem/2045/B)
 - rating: 2000
 
 ## 3. [2045 M Mirror Maze](https://codeforces.com/problemset/problem/2045/M)
